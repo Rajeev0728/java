@@ -31,5 +31,12 @@ public class assosiativity{
         int a = 10;
         int m = b*b -(4*a*c)/(2*a);
         System.out.println(m);
+
+        float s = 7/4*9/2;  // 4.0
+         System.out.println(s);
+
+        float j = 7/4.0f*9/2.0f; // 7.875
+         System.out.println(j);
+
     }
 }
