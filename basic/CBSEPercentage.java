@@ -5,7 +5,7 @@ exam his marks from 5 subject be taken as input from the keyboard
 import java.util.Scanner;
 
 public class CBSEPercentage {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
         // Taking marks input for 5 subjects
